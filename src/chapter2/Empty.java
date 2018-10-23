@@ -1,4 +1,4 @@
-package src.chapter1;
+package src.chapter2;
 
 public class Main {
 

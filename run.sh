@@ -87,3 +87,6 @@ else
 
 fi;
 
+# Clear classes again
+
+rm src/chapter*/*.class 2> /dev/null;

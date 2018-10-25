@@ -2,6 +2,8 @@
 
 ## Rules
 
+### Extra code
+
 The `helpers.Helper` methods are there to check which type an expression returns. They are always correct, so you don't need to check for mistakes over there. So if, for instance, you see:
 
 ```java
@@ -15,6 +17,17 @@ Helper.GET_TYPE(3 * 4);
 ```
 
 You don't have to check for errors. The `GET_TYPE` method will return the type of the expression passed as a parameter.
+
+### Access Modifiers
+
+These exercises don't handle the `access modifiers` handled in chapter 4:
+
+- private
+- default (package private)
+- protected
+- public
+
+Make sure you don't forget to train on them using other resources.
 
 ## Running one-liners
 

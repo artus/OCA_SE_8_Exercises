@@ -61,7 +61,7 @@ To run exercises from a specific chapter, just type
 bash ./run.sh [chapter_number]
 ```
 
-where `[chapter_number]` is the number of the chapter you want to train.
+where `[chapter_number]` is the number of the chapter you want to train. you can also type `random` to get a random chapter.
 
 ### Running specific exercises.
 
@@ -71,4 +71,4 @@ To run specific exercises, just type
 bash ./run.sh [chapter_number] [exercise_number]
 ```
 
-where `[chapter_number]` is the number of the chapter you want to train and `[exercise_number]` is the number of the exercise you want to train.
+where `[chapter_number]` is the number of the chapter you want to train and `[exercise_number]` is the number of the exercise you want to train. You can also type `random`.
